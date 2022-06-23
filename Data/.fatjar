@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Nov 12 17:56:10 CST 2019
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Users\\happy\\Desktop\\to_192_test.jar
+manifest.mergeall=true
+manifest.mainclass=com.resoft.data.MainThread
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=

@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Data:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Data_jar</output-path>
+    <root id="archive" name="Data.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/test-output/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Data" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src-lib/mysql_connector.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src-lib/ojdbc14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src-lib/sqljdbc4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src-lib/commons-lang-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src-lib/mysql-connector-java-5.1.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/junit4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

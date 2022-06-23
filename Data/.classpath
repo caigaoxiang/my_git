@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src-lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="src-lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="src-lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="src-lib/mysql_connector.jar"/>
+	<classpathentry kind="lib" path="src-lib/mysql-connector-java-5.1.18.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6_32"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
